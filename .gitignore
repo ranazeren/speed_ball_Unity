@@ -1,0 +1,15 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+My project_Data/
+*.exe
+*.dll
+*.csproj
+*.sln
+MonoBleedingEdge/
+D3D12/
